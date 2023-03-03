@@ -1,2 +1,2 @@
 print('Hello world!')
-print('Goodbye world?')
+print('Vanha rouva Tuuri on menossa Joensuuhun tapaamaan ystävänsä.')
